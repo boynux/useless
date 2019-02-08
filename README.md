@@ -1,6 +1,10 @@
 # Useless App
 
-![buils status](https://travis-ci.org/boynux/uselss.svg?branch=master)
+[![buils status](https://travis-ci.org/boynux/useless.svg?branch=master)](https://travis-ci.org/boynux/useless)
+
+## How it works
+
+It's command line tool that deletes itself after execution :D
 
 ## Why
 
