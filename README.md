@@ -4,7 +4,7 @@
 
 ## How it works
 
-It's command line tool that deletes itself after execution :D
+It's a command line tool that deletes itself after execution :D
 
 ## Why
 
